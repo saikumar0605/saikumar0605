@@ -4,13 +4,7 @@
 
 ## I have technical experience and interest in -
 - Machine Learning
-- Computer vision
-- Natural Language Processing
-- Ultrasonic Testing (Non Destructive Testing)
-- Robotics
-- UAV
-- CAD Modeling (Solid Works,Catia V5)
-- Anaysis tools(Ansys)
+- Data Analysis
 
 ## Skills 🚀 
 
