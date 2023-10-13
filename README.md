@@ -30,7 +30,8 @@
 
 ###
 
-<h1 align="center">Hello All</h1>
+<h1 align="center">Hi 👋, I'm sai kumar reddy.</h1>
+<h3 align="center">A experienced Data Scientist from India.</h3>
 
 ###
 
